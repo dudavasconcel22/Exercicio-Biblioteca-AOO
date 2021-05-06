@@ -1,2 +1,2 @@
 # Exercicio-Biblioteca-AOO
-k
+Aluna: Maria Eduarda Vasconcelos, 3º sem. sistemas de informação
